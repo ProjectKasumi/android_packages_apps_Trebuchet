@@ -38,7 +38,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="abbrev_wday_month_day_no_year" translatable="false">EEEEMMMd</string>
 
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">#RideIntoCosmos</string>
+    <string name="quick_event_rom_intro_welcome">Welcome to Materium!</string>
     <string-array name="welcome_message_variants">
         <item>Have a great day</item>
         <item>Thank you for choosing us</item>
@@ -100,7 +100,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <item>Time to charge the batteries!</item>
         <item>Tomorrow might be a great day</item>
         <item>Get your bones ready for tomorrow</item>
-        <item>Look at those stars!</item>
     </string-array>
 
     <string-array name="quickspace_psa_midnight">
@@ -108,7 +107,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <item>It\'s a bit late now</item>
         <item>You should fix your sleep schedule</item>
         <item>Are you more productive at this time?</item>
-        <item>The perfect time to watch stars!</item>
         <item>Go sleep, please</item>
     </string-array>
 
@@ -118,7 +116,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <item>Oh hey, what\'s up?</item>
         <item>Focus on your tasks</item>
         <item>How many screenshots do you take?</item>
-        <item>Open goodness with crDroid</item>
         <item>Spread love not havoc</item>
         <item>Have fun!</item>
         <item>Time for some good music</item>
@@ -142,6 +139,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <item>You are what you flash, don\'t be Potato</item>
         <item>What\'s on your mind?</item>
         <item>Winner Winner ....?</item>
+        <item>R.I.P. Stellar OS</item>
         <item>rm -rf \/</item>
         <item>Not quite feeling like spring...</item>
     </string-array>
