@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2020-2021 crDroid Android Project
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- General -->
+    <string name="settings_title">Ayarlar</string>
+
+    <!-- Categories -->
+    <string name="home_category_title">Ana ekran</string>
+    <string name="home_category_summary">Google now panelini ve daha fazlasını ayarlayın</string>
+    <string name="icons_category_title">Simgeler</string>
+    <string name="icons_category_summary">Simge şeklini ve daha fazlasını ayarlayın</string>
+    <string name="app_drawer_category_title">Uygulama çekmecesi</string>
+    <string name="app_drawer_category_summary">Uygulama çekmecenizi özelleştirin</string>
+    <string name="misc_category_title">Çeşitli</string>
+    <string name="misc_category_summary">Diğer seçenekler</string>
+    <string name="dev_options_title">Geliştirici seçenekleri</string>
+    <string name="dev_options_desc">Kendi sorumluluğunuzda bazı gizli özellikleri etkinleştir</string>
+
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">Bir Bakışta</string>
+    <string name="show_quickspace_summary">Ana ekranınızın üst kısmında</string>
+
+    <!-- QuickSpace: QuickEvent: Device Intro Event -->
+    <string name="quick_event_rom_intro_welcome">Okaeri, yūzā!</string>
+    <string-array name="welcome_message_variants">
+        <item>Yeni evinin tadını çıkar!</item>
+        <item>\"STELLAR YENİ İSİM ÖNGÖRÜSÜ????? GERÇEKTEN Mİ??????\"</item>
+        <item>Bize Telegram'dan ulaşın~!</item>
+        <item>Başlamak ister misin? Bana dokun! \⁄\(\⁄ \⁄•\⁄-\⁄•\⁄ \⁄\)\⁄</item>
+        <item>Hiç BanG Dream izledin mi?</item>
+        <item>*şaşırır* Sırf benim için mi sildin?! \(≧▽≦\)</item>
+    </string-array>
+
+    <!-- QuickSpace: QuickEvent: Ambient Play -->
+    <string name="quick_event_ambient_now_playing">Şimdi oynatılıyor</string>
+    <string name="quick_event_ambient_song_artist">%2$s\'den %1$s</string>
+
+    <!-- Quickspace Now Playing -->
+    <string name="quickspace_now_playing_title">\"Şimdi oynatılıyor\"u göster</string>
+    <string name="quickspace_now_playing_summary">Bir Bakışta\'da oynattığınız parçayı gösterir.</string>
+
+    <!-- Quickspace alternative view -->
+    <string name="quickspace_alternate_style_title">Alternatif tarz kullan</string>
+    <string name="quickspace_alternate_style_summary">Bir Bakışta için minimalistik bir tasarım kullan</string>
+
+    <!-- Icon packs -->
+    <string name="icon_pack">Simge paketi</string>
+
+    <!-- DT2S -->
+    <string name="pref_sleep_gesture_title">Çift tıkla uyut</string>
+    <string name="pref_sleep_gesture_summary">Cihazı kapatmak için boş bir yere çift dokunun</string>
+
+    <!-- Quickspace PSA - Custom messages for the glance -->
+    <string name="quickspace_psa_title">Rastgele bir mesaj göster</string>
+    <string name="quickspace_psa_summary">Bir Bakışta\'da birkaç güzel mesaj göster.</string>
+
+    <string-array name="quickspace_psa_morning">
+        <item>Ohayou!</item>
+        <item>Ohayou, iyi günler!</item>
+        <item>Kalk ve ışılda!</item>
+        <item>\"Hadi ama, ancak öldüğünde uyuyabilirsin!\"</item>
+        <item>Sanırım azıcık daha uyumak zarar vermez.</item>
+        <item>Oh, sonunda uyandın.</item>
+        <item>Waifu\'nla güzel bir gün geçir! \( ͡° ͜ʖ ͡°\)</item>
+        <item>\"GO GO GO!!!\"</item>
+        <item>Şey, hava durumunu kontrol etmelisin. Sen Kasumi değilsin.</item>
+        <item>Onee-chan\'ına okulunu hatırlat!</item>
+        <item>Güzel gökyüzü... Dışarıda görebilirsin!</item>
+        <item>Tsugumi\'ye dikkat et! Her yerde olabilir!</item>
+        <item>G\'naydın efendim! Umarım tamamen hazırsındır!</item>
+    </string-array>
+
+    <string-array name="quickspace_psa_evening">
+        <item>Oyasumi!</item>
+        <item>Yokunemuru!</item>
+        <item>Imouto\'na vaadettiğin gece öpücüğünü unutma!</item>
+        <item>Tatlı rüyalar!</item>
+        <item>Oi oi! Saat geç oluyor!</item>
+        <item>Uyursan waifu\'nu göreceğini garanti edebilirim.</item>
+        <item>Güçlerini kaybedeceğinden mi korkuyorsun?</item>
+        <item>Haaa, uzun bir gündü...</item>
+        <item>Gecenin tadını çıkar ve Star Beat\'i duy!</item>
+        <item>Kasumi kadar enerjik olmak istemiyor musun?</item>
+        <item>Yarın mükemmel bir gün olabilir</item>
+        <item>Senin bedeninin de dinlenmesi lazım, biliyorsun değil mi?</item>
+        <item>Şu yıldızlara bak! Poppin\'Party\'yi sembolize ediyorlar!</item>
+        <item>Hey, çok yorgun görünüyorsun. İşte, otur.</item>
+    </string-array>
+
+    <string-array name="quickspace_psa_midnight">
+        <item>Etto... oyasuminasai?</item>
+        <item>Umarım beynin hâlâ işlevseldir...</item>
+        <item>Bazen senin hakkında üzülüyorum...</item>
+        <item>Bekle, umarım sıradaki konser için şarkı sözlerini yazıyorsundur.</item>
+        <item>Nete kudasai!</item>
+    </string-array>
+
+    <string-array name="quickspace_psa_random">
+        <item>BanG Dream GBP\'deki etkinlikleri kaçırmadığından emin ol.</item>
+        <item>Android 12 hakkında heyecanlı mısın?</item>
+        <item>Konnichiwa! Genki desu ka?</item>
+        <item>Odaklan! Tsugumi kadar değil gerçi... (^～^;)ゞ</item>
+        <item>Anime ekran görüntülerini grubumuzda paylaşabilirsin! \;3</item>
+        <item>Ikeru!</item>
+        <item>You\'re loved !</item>
+        <item>Tanoshimou!</item>
+        <item>\"Watashitachi no raibu, hajimeruyo~!\"</item>
+        <item>Used-by: User \u003Cyuuzaa\u0040projectkasumi.xyz\u003E</item>
+        <item>Bunu görmek için 25 Ücretli Yıldız\'a ihtiyacın var</item>
+        <item>Unicorn\'un Lineage\'ini hatırla</item>
+        <item>Xtended pil ömrünün tadını çıkarın</item>
+        <item>Poppin\'Party\'nin nasıl kurulduğunu hatırlıyor musun?</item>
+        <item>Seviliyorsun, \u0023GüvendeKal!</item>
+        <item>Birkaç güzel parça bekliyoruz!</item>
+        <item>Bu en iyi Pixel Experience, değil mi?</item>
+        <item>Daijoubudesuka?</item>
+        <item>Anti-horny haplarını al!</item>
+        <item>Desteğin için teşekkürler</item>
+        <item>Derp\'ler için festival yok - sadece mükemmeliyet!</item>
+        <item>Weebler için yeni bir ev!</item>
+        <item>Paranoia\'n için akıl sağlığı</item>
+        <item>Ice Cold tatlıları dene</item>
+        <item>Ne kadar güzel bir eXPerience, değil mi?</item>
+        <item>Evolution bir efsane, değil mi??</item>
+        <item>Sen ne yüklediğinsin, Potato olma</item>
+        <item>Hm? Bir sorun mu var?</item>
+        <item>Kanpekidane! Yaaay!</item>
+        <item>Stellar OS ve Stellar-Weeb huzur içinde yatsınlar...</item>
+        <item>Gerçek: \"PoPiPa\", Poppin\'Party\'nin kısaltmasıdır.</item>
+        <item>Çok da bahar gibi hissettirmiyor...</item>
+    </string-array>
+
+    <!-- Recents screen, close app -->
+    <string name="recents_close_app">Uyg. kapat</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Değer: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">varsayılan olarak</string>
+    <string name="custom_seekbar_default_value_to_set">Varsayılan değer: <xliff:g id="v">%s</xliff:g>\nAyarlamak için basılı tutun</string>
+    <string name="custom_seekbar_default_value_is_set">Varsayılan değer ayarlandı</string>
+
+    <!-- Icon size -->
+    <string name="icon_size_title">Simge boyutu</string>
+
+    <!-- Font size -->
+    <string name="font_size_title">Yazı tipi boyutu</string>
+
+    <!-- App label - max lines -->
+    <string name="icon_max_lines_title">Uygulama adı için maks. satır sayısı</string>
+
+    <!-- Scrim alpha in apps drawer -->
+    <string name="all_apps_background_opacity_title">Arkaplan opaklığı</string>
+
+    <!-- AppInfo -->
+    <string name="app_info_subtext">Uygulama bilgisini kapatmak için sşsğı kaydırın.</string>
+    <string name="app_info_version_value">%1$s (%2$d)</string>
+    <string name="placeholder_string">Yükleniyor...</string> <!-- Used for preference height loading. -->
+    <string name="app_info_source">Kaynak</string>
+    <string name="app_info_source_system">Sistem</string>
+    <string name="app_info_last_update">Son güncelleme</string>
+    <string name="app_info_version">Sürüm</string>
+    <string name="app_info_more">Daha fazla</string>
+
+    <!-- Show dock search widget -->
+    <string name="dock_search_title">Google arama çubuğu</string>
+    <string name="dock_search_summary">Alt dock\'ta arama çubuğunu göster</string>
+
+    <!-- About info -->
+    <string name="about_trebuchet_summary">Trebuchet+, crDroid\'in Trebuchet forku crDroid Home\'u ve ProjectSakura\'nın Trebuchet+\'ını taban alan özelleştirilmiş bir launcher\'dır</string>
+    <string name="about_thanks_cat">Özellikle teşekkürler</string>
+    <string name="about">Hakkında</string>
+    <string name="about_summary">Launcher hakkında bilgi</string>
+    <string name="about_app_version">Sürüm</string>
+    <string name="about_app_version_summary">1.0</string>
+
+</resources>
